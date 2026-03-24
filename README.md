@@ -56,3 +56,13 @@ Connectivity across the network was verified using:
 - Successful packet transmission across multiple routers  
 - Validation of routing tables using:
   **show ip route**
+
+=> Challenges Faced
+- Incorrect next-hop configuration
+- Packet drops between routers
+- Interface misconfigurations
+
+=> How I Corrected The Issues
+- Importance of correct routing tables
+- WAN design considerations
+- Troubleshooting network connectivity issues
