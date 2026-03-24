@@ -45,8 +45,8 @@ Key Features & Configurations
 - Routes configured to enable full communication between all subnets
   
 => *Interfaces*
-- **GigabitEthernet (G0/x):** Used for inter-router WAN links  
-- **FastEthernet (Fa0/x):** Used for LAN connections  
+- **Copper Crossover Cable GigabitEthernet (G0/x):** Used for inter-router WAN links  
+- **Copper Straight-through Cable FastEthernet (Fa0/x):** Used for LAN connections  
 
 => **Testing & Verification**
 
