@@ -31,8 +31,7 @@ The topology consists of:
 
 => Network Topology
 
-![Network Topology](topology/network-topology.png)
-https://github.com/Ayomide101-debug/Cisco-WAN-lab/blob/main/Enterprise%20WAN%20Image.png?raw=true
+Network Topology Image is in the main repo
 
 Key Features & Configurations
 
